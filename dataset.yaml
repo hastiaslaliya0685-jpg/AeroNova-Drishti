@@ -1,0 +1,9 @@
+
+path: data
+train: images/train
+val: images/val
+
+names:
+  0: victim
+  1: collapsed_building
+  2: flood
